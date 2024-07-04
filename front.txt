@@ -1,1 +1,1 @@
-this is the front page of this project;
+It is the front page of this project;
